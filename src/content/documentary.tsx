@@ -1,8 +1,8 @@
-import img23 from '../assets/images/img23.png'
-import img24 from '../assets/images/img24.png'
-import img25 from '../assets/images/img25.png'
-import img26 from '../assets/images/img26.jpg'
-import img27 from '../assets/images/img27.png'
+import img23 from '../assets/images/cmt8/h1.jpg'
+import img24 from '../assets/images/cmt8/cmt8-h2.jpg'
+import img25 from '../assets/images/cmt8/pbc.jpg'
+import img26 from '../assets/images/cmt8/muathucm.jpg'
+import img27 from '../assets/images/cmt8/nandoi.jpg'
 export type DocumentaryContent = {
     name: string,
     description: string,
@@ -14,39 +14,37 @@ export const DocumentaryContents: DocumentaryContent[] = [
     {
         name: `[Video] Tư liệu`,
         description: `
-Bộ phim tài liệu "Điện Biên Phủ 1954" tái hiện trận chiến lịch sử, khắc họa tinh thần kiên cường của quân và dân Việt Nam trong cuộc đấu tranh giành độc lập.`,
+NGỌN LỬA từ TRO TÀN mở đường KHAI SINH đất nước Việt Nam`,
         image: img23,
-        url: `https://www.youtube.com/watch?v=COG1itIE3Rw&list=PLxv6taYbRuB4o3S6EJDttd4t-Q3tTHyKx&index=1`,
+        url: `https://www.youtube.com/watch?v=AZnl7qGPwHk`,
 
     },
     {
-        name: `[Video] Tóm tắt chiến thắng Điện Biên Phủ`,
+        name: `[Video] CÁCH MẠNG THÁNG 8 VÀ NỀN ĐỘC LẬP CHO VIỆT NAM`,
         description: ``,
         image: img24,
-        url: `https://www.youtube.com/watch?v=CD8sKixEDsI&pp=ygUjY2hp4bq_biB0aOG6r25nIMSRaeG7h24gYmnDqm4gcGjhu6c%3D
-`,
+        url: `https://www.youtube.com/watch?v=ILbPXBv15GQ`,
 
     },
     {
-        name: `[Video] Phim tài liệu`,
+        name: `[Video] Phan Bội Châu, Người Tiên Phong Cho Tư Tưởng Chống Pháp Không Theo Phong Kiến`,
         description: ``,
         image: img25,
-        url: `https://www.youtube.com/watch?v=jy7Z3oYOp7w&pp=ygUjY2hp4bq_biB0aOG6r25nIMSRaeG7h24gYmnDqm4gcGjhu6c%3D
-`,
+        url: `https://www.youtube.com/watch?v=cIIeezm-zVY`,
 
     },
     {
-        name: `Kỷ niệm 70 năm Chiến thắng Điện Biên Phủ`,
+        name: `[Video] 19/8/1945 - MÙA THU CÁCH MẠNG`,
         description: ``,
         image: img26,
-        url: `https://dangcongsan.vn/ky-niem-70-nam-chien-thang-dien-bien-phu`,
+        url: `https://www.youtube.com/watch?v=fQb6hLWvl-c`,
 
     },
     {
-        name: `Những hình ảnh đặc biệt quý hiếm về Chiến dịch Điện Biên Phủ`,
+        name: `[Video] Toàn Cảnh Nạn Đói 1945 Ở Việt Nam`,
         description: ``,
         image: img27,
-        url: `https://xaydungchinhsach.chinhphu.vn/nhung-hinh-anh-dac-biet-quy-hiem-ve-chien-dich-dien-bien-phu-119230507104433041.htm`,
+        url: `https://www.youtube.com/watch?v=v5gjkFVfzzU`,
 
     },
 

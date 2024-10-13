@@ -32,6 +32,7 @@ function App() {
     };
   }, []);
   const initChatbot = (script: any) => {
+    // script.src = '';
     script.src = 'https://sf-cdn.coze.com/obj/unpkg-va/flow-platform/chat-app-sdk/0.1.0-beta.5/libs/oversea/index.js';
     script.async = true;
 
@@ -39,7 +40,7 @@ function App() {
       if ((window as any).CozeWebSDK) {
         new (window as any).CozeWebSDK.WebChatClient({
           config: {
-            bot_id: '7403270240769671176',
+            bot_id: '7425198163742572552',
           },
           componentProps: {
             title: 'Coze',
