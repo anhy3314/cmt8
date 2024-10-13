@@ -1,0 +1,66 @@
+#result-container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 25%;
+    width: 90%;
+    height: 60%;
+    margin: 0 auto;
+}
+
+#result-container .swiper .swiper-button-prev {
+    color: white;
+    margin-left: 20px;
+}
+
+#result-container .swiper .swiper-button-next {
+    color: white;
+    margin-right: 20px;
+}
+
+#result-swiper-container {
+    height: 100%;
+}
+
+#result-card-container {
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+#result-card-image {
+    width: 100%;
+    border-radius: 10px;
+    height: 45rem;
+}
+
+#result-card-content {
+    font-family: 'UTMSwiss';
+    text-align: left;
+    font-size: 30px;
+    line-height: 5rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20%;
+    width: 85%;
+    margin: 0 auto;
+    color: white;
+    cursor: default;
+}
+
+
+#result-card-count {
+    font-family: 'Vintage';
+    text-align: left;
+    font-size: 2.5rem;
+    line-height: 5rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 10%;
+    width: 85%;
+    margin: 0 auto;
+    color: white;
+    cursor: default;
+}

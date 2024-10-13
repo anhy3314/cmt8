@@ -1,0 +1,80 @@
+#heroes-parallax-container {
+    position: absolute;
+    display: flex;
+    left: 0;
+    right: 0;
+    top: 30%;
+    width: 100%;
+    height: 45%;
+    margin: 0 auto;
+}
+
+#heroes-parallax {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+#heroes-parallax-item {
+    height: 100%;
+}
+
+
+#heroes-sticky-section {
+    position: relative;
+    width: 45%;
+    height: 100%;
+    margin-left: 5%;
+
+}
+
+#heroes-sticky-card-img-wrapper {
+    height: 100%;
+}
+
+#heroes-sticky-card-img {
+    position: absolute;
+    border-radius: 10px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+#heroes-parallax-section {
+    position: relative;
+    width: 40%;
+    height: 100%;
+    margin-left: 5%;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+#heroes-parallax-card-text-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    justify-content: left;
+}
+
+#heroes-parallax-card-title {
+    color: red;
+    width: 100%;
+    font-family: 'Vintage';
+    font-size: 3.2rem;
+    text-align: left;
+}
+
+#heroes-parallax-card-text {
+    color: yellow;
+    width: 100%;
+    font-family: 'UTMSwiss';
+    font-size: 2.2rem;
+    text-align: left;
+}
