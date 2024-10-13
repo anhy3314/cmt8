@@ -14,7 +14,6 @@ import 'swiper/css/thumbs';
 import './App.css';
 import AppBarSection from './sections/AppBarSection';
 import Context from './sections/Context';
-import Difficulties from './sections/Difficulties';
 import Documentaries from './sections/Documentaries';
 import Evolution from './sections/Evolution';
 import Footer from './sections/Footer';
@@ -70,8 +69,6 @@ function App() {
 
 
       <Heroes/>
-
-      {/* <Difficulties /> */}
       
       
       <Documentaries />

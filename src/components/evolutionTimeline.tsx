@@ -7,7 +7,7 @@ import TimelineOppositeContent from '@mui/lab/TimelineOppositeContent';
 import TimelineSeparator from '@mui/lab/TimelineSeparator';
 import Typography from '@mui/material/Typography';
 import { useState } from 'react';
-import { DARK_BLACK,GOLD,RED, DARKER_BLACK } from '../constants/colors';
+import { GOLD,RED, DARKER_BLACK } from '../constants/colors';
 import { EvolutionContent, EvolutionContents } from '../content/evolution';
 import '../styles/evolutionTimeline.css';
 export default function EvolutionTimeline() {

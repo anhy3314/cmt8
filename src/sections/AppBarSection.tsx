@@ -3,7 +3,7 @@ import { AppBar, Container, Drawer, IconButton, Toolbar, Typography } from "@mui
 
 import { useState } from 'react';
 import { DrawerList } from '../components/drawer';
-import { DARK_BLACK, RED } from '../constants/colors';
+import { RED } from '../constants/colors';
 
 export default function AppBarSection() {
     const [open, setOpen] = useState(false)

@@ -2,9 +2,6 @@ import bac from '../assets/images/cmt8/nvtb/bac.jpg'
 import tc from '../assets/images/cmt8/nvtb/tc.jpg'
 import vng from '../assets/images/cmt8/nvtb/vng.jpg'
 import ntt from '../assets/images/cmt8/nvtb/ntt.jpg'
-import cvt from '../assets/images/cmt8/nvtb/cvt.jpg'
-import ltn from '../assets/images/cmt8/nvtb/ltn.jpg'
-import thl from '../assets/images/cmt8/nvtb/thl.jpg'
 export type HeroContent = {
     title: string,
     content: string,
