@@ -61,6 +61,7 @@
     margin-top: 25%;
     margin-bottom: 25%;
     justify-content: left;
+    /* background-color: dimgray; */
 }
 
 #heroes-parallax-card-title {
@@ -72,7 +73,7 @@
 }
 
 #heroes-parallax-card-text {
-    color: yellow;
+    color: dodgerblue;
     width: 100%;
     font-family: 'UTMSwiss';
     font-size: 2.2rem;
