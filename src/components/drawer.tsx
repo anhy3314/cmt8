@@ -4,7 +4,6 @@ import ColorizeIcon from '@mui/icons-material/Colorize';
 import HealthAndSafetyIcon from '@mui/icons-material/HealthAndSafety';
 import LightbulbIcon from '@mui/icons-material/Lightbulb';
 import QuestionMarkIcon from '@mui/icons-material/QuestionMark';
-import SpeedIcon from '@mui/icons-material/Speed';
 import Star from '@mui/icons-material/Star';
 import { Box } from "@mui/material";
 import List from '@mui/material/List';
@@ -33,29 +32,24 @@ const DrawerItems: DrawerItem[] = [
         destination: 'Context'
     },
     {
-        name: 'Khó khăn',
-        icon: (<SpeedIcon />),
-        destination: 'Difficulties'
-    },
-    {
-        name: 'Chiến lược',
-        icon: (<LightbulbIcon />),
-        destination: 'Strategy'
-    },
-    {
-        name: 'Hậu cần',
-        icon: (<AirportShuttleIcon />),
-        destination: 'Logistics'
-    },
-    {
-        name: 'Diễn biến',
+        name: 'Diễn biến chính',
         icon: (<ColorizeIcon />),
         destination: 'Advancement'
+    },
+    {
+        name: 'Khởi nghĩa toàn quốc',
+        icon: (<LightbulbIcon />),
+        destination: 'Strategy'
     },
     {
         name: 'Kết quả',
         icon: (<Visibility />),
         destination: 'Result'
+    },
+    {
+        name: 'Ý nghĩa lịch sữ',
+        icon: (<AirportShuttleIcon />),
+        destination: 'Logistics'
     },
     {
         name: 'Anh hùng',
