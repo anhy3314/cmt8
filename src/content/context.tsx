@@ -17,7 +17,7 @@ export const ContextContents: ContextContent[] = [
     {
         image: img29,
         title: 'Tình hình tại Đông Dương',
-        content: 'Sau khi phát xít Nhật lật đổ thực dân Pháp, Đông Dương rơi vào tình trạng hỗn loạn chính trị. Các lực lượng dân tộc và xã hội dân sự bắt đầu hoạt động mạnh mẽ để giành quyền kiểm soát. Các đảng phái chính trị, đặc biệt là Đảng Cộng sản Đông Dương và Mặt trận Việt Minh, bắt đầu tổ chức các hoạt động cách mạng. Trong bối cảnh này, các phong trào đấu tranh yêu nước diễn ra sôi nổi với sự tham gia của nhiều tầng lớp nhân dân. Mặt trận Việt Minh ra đời nhằm tập hợp lực lượng dân tộc yêu nước để chống lại ách thống trị thực dân và phát xít. Nền kinh tế Đông Dương rơi vào tình trạng khủng hoảng nặng nề, dẫn đến cuộc sống của người dân trở nên khó khăn, thiếu thốn. Sự căng thẳng trong xã hội đã tạo ra môi trường thuận lợi cho các hoạt động khởi nghĩa.',
+        content: 'Dưới sự bóc lột tàn bạo từ Pháp với các chính sách khai thác tài nguyên thiên nhiên và thu thuế nặng nề và Nhật Bản sử dụng nguồn lực Đông Dương để phục vụ cho nỗ lực chiến tranh, đặc biệt là thu thập lương thực và nguyên liệu cho quân đội Nhật. Mặt trận Việt Minh, thành lập năm 1941 dưới sự lãnh đạo của Hồ Chí Minh, đã trở thành lực lượng tiên phong trong cuộc đấu tranh chống lại cả Pháp và Nhật. Tại Campuchia, dưới sự cai trị của vua Norodom Sihanouk và trong tình thế bị Nhật và Pháp chia rẽ, các lực lượng kháng chiến như Khmer Issarak dần nổi lên, kêu gọi độc lập và giải phóng dân tộc. Tại Lào, phong trào Pathet Lào bắt đầu hình thành, với mục tiêu giải phóng đất nước khỏi sự kiểm soát của Pháp và Nhật, song Lào và Campuchia còn chịu nhiều ảnh hưởng từ các thế lực quốc tế khác.',
     },
     {
         image: img30,

@@ -39,12 +39,16 @@ function StickyCard({ image }: StickyCardProps) {
         from: { opacity: 0, transform: 'translateY(30px)' },
         opacity: 1,
         transform: 'translateY(0)',
-        delay: 100
+        delay: 100,
+        
     });
     return (
-        <animated.div style={styles} id='heroes-sticky-card-img-wrapper'>
-            <img src={image} id='heroes-sticky-card-img' />
-        </animated.div>
+        <div>
+            <animated.div style={styles} id='heroes-sticky-card-img-wrapper'>
+                <img src={image} id='heroes-sticky-card-img' />
+            </animated.div>
+        </div>
+
     )
 
 }
