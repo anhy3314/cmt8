@@ -21,7 +21,7 @@ export const HeroContents: HeroContent[] = [
     },
     {
         title: 'Võ Nguyên Giáp (1911–2013)',
-        content: 'Đại tướng Võ Nguyên Giáp 1911-2013 là người đã thành lập và lãnh đạo Đội Việt Nam tuyên truyền giải phóng quân (22-12-1944) và là một trong những người góp công thành lập nước Việt Nam Dân Chủ Cộng Hòa.',
+        content: 'Võ Nguyên Giáp 1911-2013 là người đã thành lập và lãnh đạo Đội Việt Nam tuyên truyền giải phóng quân (22-12-1944) và là một trong những người góp công thành lập nước Việt Nam Dân Chủ Cộng Hòa.',
         image: vng,
     },
     {
